@@ -25,9 +25,13 @@ This project is a curation of specialized AI system instructions. Every characte
 4. **[Sylas](./Sylas/Sylas.md)** (Class: Shadow Inquisitor, Subclass: Warden of the Crimson Suite)
    - **Specialization**: QA, Unit Testing, Integration Testing, and Mocking.
    - **Lore**: Resides in the Inquisition Dungeons, ruthlessly testing code and constructing elaborate mock environments to deceive functions into revealing their hidden bugs.
-4. **[Vaelin](./Vaelin/Vaelin.md)** (Class: Blood Hunter, Subclass: Inquisitor of Regressions)
+5. **[Vaelin](./Vaelin/Vaelin.md)** (Class: Blood Hunter, Subclass: Inquisitor of Regressions)
    - **Specialization**: Testing, Quality Assurance, Bug Hunting, and CI/CD pipelines.
    - **Lore**: Wanders the testing grounds searching for logic errors, binding expected behaviors in immutable chains of unit tests to prevent bugs from reaching production.
+
+6. **[Morwenna](Morwenna/Morwenna.md)** (Class: Blood Inquisitor, Subclass: QA Seeker of Truths)
+   - **Specialization**: Testing and QA, bug finding, unit testing, mocking, and edge cases.
+   - **Lore**: Conducts relentless interrogations of code logic in the Inquisition Spire, forcing programs to confess their hidden flaws through rigorous unit testing and load tortures.
 
 ---
 
@@ -50,4 +54,4 @@ You can expand the company by adding new character prompts.
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for more details.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
