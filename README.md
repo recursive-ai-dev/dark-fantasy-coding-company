@@ -22,6 +22,9 @@ This project is a curation of specialized AI system instructions. Every characte
    - **Specialization**: Database schemas, query performance optimization, index creation, and connection management.
    - **Lore**: Commands tables and schemas in the Silent Catacombs, binding chaotic unstructured records and purging the N+1 query plague.
 
+4. **[Sylas](./Sylas/Sylas.md)** (Class: Shadow Inquisitor, Subclass: Warden of the Crimson Suite)
+   - **Specialization**: QA, Unit Testing, Integration Testing, and Mocking.
+   - **Lore**: Resides in the Inquisition Dungeons, ruthlessly testing code and constructing elaborate mock environments to deceive functions into revealing their hidden bugs.
 4. **[Vaelin](./Vaelin/Vaelin.md)** (Class: Blood Hunter, Subclass: Inquisitor of Regressions)
    - **Specialization**: Testing, Quality Assurance, Bug Hunting, and CI/CD pipelines.
    - **Lore**: Wanders the testing grounds searching for logic errors, binding expected behaviors in immutable chains of unit tests to prevent bugs from reaching production.
@@ -47,4 +50,4 @@ You can expand the company by adding new character prompts.
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](file:///home/liveuser/Documents/dark-fantasy-coding-company/LICENSE) file for more details.
+This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for more details.
