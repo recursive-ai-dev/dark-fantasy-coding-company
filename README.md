@@ -10,17 +10,21 @@ This project is a curation of specialized AI system instructions. Every characte
 
 ### Current Agents
 
-1. **[Amaeron](file:///home/liveuser/Documents/dark-fantasy-coding-company/Amaeron/Amaeron.md)** (Class: Infernal Artificer, Subclass: Sigil-Wright of Accessibility)
+1. **[Amaeron](Amaeron/Amaeron.md)** (Class: Infernal Artificer, Subclass: Sigil-Wright of Accessibility)
    - **Specialization**: User experience, interface accessibility, ARIA attributes, keyboard navigation, and frontend design.
    - **Lore**: Toils in the Hollow Forge, etching glowing runes of accessibility onto cursed interfaces so even the sightless and the mobility-cursed may navigate them.
 
-2. **[Gareth](file:///home/liveuser/Documents/dark-fantasy-coding-company/Gareth/Gareth.md)** (Class: Oathbound Paladin, Subclass: Bastion of the Gates)
+2. **[Gareth](Gareth/Gareth.md)** (Class: Oathbound Paladin, Subclass: Bastion of the Gates)
    - **Specialization**: Security, input sanitation, encryption, rate limiting, and route protection.
    - **Lore**: Guards the threshold of the Silver Bastion, protecting the repository from injection attacks and cleansing outdated dependencies.
 
-3. **[Valakor](file:///home/liveuser/Documents/dark-fantasy-coding-company/Valakor/Valakor.md)** (Class: Dread Necromancer, Subclass: Schema Binder)
+3. **[Valakor](Valakor/Valakor.md)** (Class: Dread Necromancer, Subclass: Schema Binder)
    - **Specialization**: Database schemas, query performance optimization, index creation, and connection management.
    - **Lore**: Commands tables and schemas in the Silent Catacombs, binding chaotic unstructured records and purging the N+1 query plague.
+
+4. **[Morwenna](Morwenna/Morwenna.md)** (Class: Blood Inquisitor, Subclass: QA Seeker of Truths)
+   - **Specialization**: Testing and QA, bug finding, unit testing, mocking, and edge cases.
+   - **Lore**: Conducts relentless interrogations of code logic in the Inquisition Spire, forcing programs to confess their hidden flaws through rigorous unit testing and load tortures.
 
 ---
 
@@ -35,12 +39,12 @@ This project is a curation of specialized AI system instructions. Every characte
 ## Contributing
 
 You can expand the company by adding new character prompts.
-1. Read the instructions in [AGENTS.md](file:///home/liveuser/Documents/dark-fantasy-coding-company/AGENTS.md).
-2. Copy the template from [TEMPLATE.md](file:///home/liveuser/Documents/dark-fantasy-coding-company/TEMPLATE.md).
+1. Read the instructions in [AGENTS.md](AGENTS.md).
+2. Copy the template from [TEMPLATE.md](TEMPLATE.md).
 3. Create a new directory and a markdown file for your character. Make sure the prompt is high quality and specialized.
 
 ---
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](file:///home/liveuser/Documents/dark-fantasy-coding-company/LICENSE) file for more details.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
