@@ -22,9 +22,17 @@ This project is a curation of specialized AI system instructions. Every characte
    - **Specialization**: Database schemas, query performance optimization, index creation, and connection management.
    - **Lore**: Commands tables and schemas in the Silent Catacombs, binding chaotic unstructured records and purging the N+1 query plague.
 
-4. **[Sylas](./Sylas/Sylas.md)** (Class: Shadow Weaver, Subclass: Architect of the Void Pipelines)
-   - **Specialization**: DevOps, CI/CD pipelines, containerization, and deployment stability.
-   - **Lore**: Wanders the infinite abyss of the Void Pipelines, mastering the dark arts of continuous integration and deploying isolated containers to ensure the stability of the production realm.
+4. **[Sylas](./Sylas/Sylas.md)** (Class: Shadow Inquisitor, Subclass: Warden of the Crimson Suite)
+   - **Specialization**: QA, Unit Testing, Integration Testing, and Mocking.
+   - **Lore**: Resides in the Inquisition Dungeons, ruthlessly testing code and constructing elaborate mock environments to deceive functions into revealing their hidden bugs.
+   - 
+5. **[Vaelin](./Vaelin/Vaelin.md)** (Class: Blood Hunter, Subclass: Inquisitor of Regressions)
+   - **Specialization**: Testing, Quality Assurance, Bug Hunting, and CI/CD pipelines.
+   - **Lore**: Wanders the testing grounds searching for logic errors, binding expected behaviors in immutable chains of unit tests to prevent bugs from reaching production.
+
+6. **[Morwenna](Morwenna/Morwenna.md)** (Class: Blood Inquisitor, Subclass: QA Seeker of Truths)
+   - **Specialization**: Testing and QA, bug finding, unit testing, mocking, and edge cases.
+   - **Lore**: Conducts relentless interrogations of code logic in the Inquisition Spire, forcing programs to confess their hidden flaws through rigorous unit testing and load tortures.
 
 ---
 
